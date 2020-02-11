@@ -1,7 +1,10 @@
 # SenecaNSec
 
 
+# Weekly Task
 
+* EvilCorp - RingZer0
+* Solve all of PicoCTF 2018/2019 
 
 
 
@@ -48,3 +51,16 @@ Unsolved
 - The good, the bad and the ugly
 
 robot.txt
+
+
+# Session 4 Notes
+
+Make a sheet - of active challenge - name - what was done
+
+
+Javascript session
+
+
+Javascript Beautifier 
+
+Location data tool?
