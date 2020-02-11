@@ -8,7 +8,7 @@
 
 
 
-#Session 3 - Notes
+# Session 3 - Notes
 
 Jin’s Notes
 ---
