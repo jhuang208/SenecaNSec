@@ -26,11 +26,6 @@ Hexdump / Wordpad / VIM
 
 General debug /strace / ltrace
 
-grep
-string
-egrep
-fgrep
-
 general linux folder/files
 
 priv escalation - very basics
