@@ -1,3 +1,10 @@
+Upgrading from a 'dumb' shell to a fully interactive shell to prevent losing a shell from bad commands hanging or killing the connection with 'Ctrl-C'.
+
+Other drawbacks
+* Incorrect SIGINT handling
+* Certain commands don't work (su)
+* **No tab complete**
+* no STDERR
 
 # Three Methods
 Reference: https://blog.ropnop.com/upgrading-simple-shells-to-fully-interactive-ttys/
@@ -31,6 +38,17 @@ $ stty rows <num> columns <cols>
 ```
 
 # No Python?
+## Script
 ```
 SHELL=/bin/bash script -q /dev/null
+```
+
+## expect
+```
+expect -c 'spawn bash; interact'
+```
+
+## awk
+```
+awk 'BEGIN {system("/bin/bash")}'
 ```
