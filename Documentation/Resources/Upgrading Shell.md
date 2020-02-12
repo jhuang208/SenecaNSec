@@ -38,6 +38,7 @@ $ stty rows <num> columns <cols>
 ```
 
 # No Python?
+Reference: https://github.com/rhamaa/Bash-And-CTF-Cheatsheet
 ## Script
 ```
 SHELL=/bin/bash script -q /dev/null
@@ -52,3 +53,5 @@ expect -c 'spawn bash; interact'
 ```
 awk 'BEGIN {system("/bin/bash")}'
 ```
+
+Reference: https://www.boiteaklou.fr/Fully-interactive-reverse-shell.html
