@@ -2,7 +2,7 @@ Upgrading from a 'dumb' shell to a fully interactive shell to prevent losing a s
 
 Other drawbacks
 * Incorrect SIGINT handling
-* Certain commands don't work (su)
+* Certain commands don't work (su, vi, nano, ssh)
 * **No tab complete**
 * no STDERR
 
