@@ -13,6 +13,7 @@ strings [OPTIONS] FILENAME\
 ```
 
 # Use case
+## Searching for specific text from binary's strings
 ```
-strings FILENAME | grep STRING
+strings FILENAME | grep TEXT
 ```
