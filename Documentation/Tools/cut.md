@@ -5,7 +5,6 @@
 cut OPTION [FILE]\
 -d, --delimiter=DELIM -  Sets a custom deliminter (Default TAB)
 -f, --fields=LIST - Select only these fields determined by the delimiter
-
 ```
 
 # Use case
