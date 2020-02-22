@@ -1,10 +1,11 @@
 
-# Common Flags
+# Flags
 > -c - counts number of matches without printing\
 -i - search case insensitive\
 -n - print the number of lines before each match\
 -v - prints the complement of the regular expression\
 -l - print file names with lines that match the expression
+-r - recursively searches files
 
 # Some Special Meta-Characters of grep
 > \+ – Equivalent to one or more occurrences of previous character.\
