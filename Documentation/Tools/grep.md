@@ -4,7 +4,7 @@
 -i - search case insensitive\
 -n - print the number of lines before each match\
 -v - prints the complement of the regular expression\
--l - print file names with lines that match the expression
+-l - print file names with lines that match the expression\
 -r - recursively searches files
 
 # Some Special Meta-Characters of grep
