@@ -1,6 +1,6 @@
 # Solution
 
-# Using Ghidra
+## Using Ghidra
 Loading the binary into Ghidra allows you to review the program structure by opening the Function Graph (Windows -> Function Graph).
 
 ![Function Graph](https://user-images.githubusercontent.com/32277825/75081241-7e7ed100-54dc-11ea-8104-876b5bffb2ae.PNG)
